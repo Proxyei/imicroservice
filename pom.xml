@@ -117,6 +117,7 @@
 	<modules>
 		<module>imircoservice-api</module>
 		<module>imicroservice-provider-person-8001</module>
+		<module>imicroservice-consumer-person-80</module>
 	</modules>
 
 </project>
