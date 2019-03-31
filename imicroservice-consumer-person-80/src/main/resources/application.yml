@@ -1,0 +1,2 @@
+server:
+  port: 8080 #画重点，linux下小于1024以下的接口需要root权限
