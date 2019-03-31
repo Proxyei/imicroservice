@@ -38,4 +38,10 @@ public class ConsumerAppController80 {
 		return restTemplate.getForObject(URL_PROVIDER + "/getPerson/" + id, Person.class);
 	}
 
+	@RequestMapping(value = "consumer/discoveryService", method = RequestMethod.GET)
+	public Object discoveryService() {
+
+		return restTemplate.getForObject(URL_PROVIDER + "/discoveryService", Object.class);
+	}
+
 }
