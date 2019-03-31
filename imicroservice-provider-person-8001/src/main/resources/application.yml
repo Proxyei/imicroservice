@@ -34,4 +34,23 @@ eureka:
   instance:
     instance-id: imicroservice-eureka-person8001
     prefer-ip-address: true
+
+info: 
+  app.name: imicroservices-person
+  company: helloworld
+  build.version: $project.version$
+  build.artifactId: $project.artifactId$ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
       
