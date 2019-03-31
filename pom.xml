@@ -121,6 +121,8 @@
 		<module>imicroservice-provider-person-8001</module>
 		<module>imicroservice-consumer-person-80</module>
 		<module>imicroservice-eureka-7001</module>
+		<module>imicroservice-eureka-7002</module>
+		<module>imicroservice-eureka-7003</module>
 	</modules>
 
 </project>
